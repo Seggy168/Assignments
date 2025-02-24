@@ -6,4 +6,5 @@ https://1drv.ms/f/c/55a7c9e0eb3add90/EpDdOuvgyacggFVnAAAAAAABhLWoe7mZqA-5ASei7wP
 ## Python Refresher Exercise
 https://github.com/Seggy168/Assignments.git
 
-  - 
+## Streamlit Project
+https://github.com/Seggy168/Assignments.git
